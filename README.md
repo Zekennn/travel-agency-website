@@ -18,4 +18,4 @@ Smart Price Finder – Instantly compare and book the best flight and hotel deal
 
  Reviews & Ratings – Trusted traveler reviews to guide your choices.
 
- 24/7 Support Chat – Always available for help before, during, or after your trip.
+
