@@ -4,7 +4,7 @@ Welcome to WanderLux Travels – your personal gateway to the world’s most bre
 
  Main Features
 
-Destination Explorer – Browse by country, theme, or mood (beaches, adventures, romantic getaways, cultural tours).
+Destination Explorer – Browse by country, theme, or mood (beaches, adventures, cultural tours).
 
 Smart Price Finder – Instantly compare and book the best flight and hotel deals.
 
