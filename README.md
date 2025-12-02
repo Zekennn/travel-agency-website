@@ -1,7 +1,8 @@
 Travel Agency Website Overview
 
-Welcome to WanderLux Travels – your personal gateway to the world’s most breathtaking destinations. Our website is designed to make travel planning simple, exciting, and unforgettable. From booking dream vacations to discovering hidden gems, WanderLux brings the joy of exploration to your fingertips.
+🚀 Overview
 
+TravelEase is a modern, responsive travel agency website designed to showcase destinations, tour packages, hotel deals, and easy booking options. It provides users with a smooth browsing experience, real-time contact forms, and a visually rich interface to explore their dream vacations.
  Main Features
 
 Destination Explorer – Browse by country, theme, or mood (beaches, adventures, cultural tours).
