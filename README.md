@@ -5,7 +5,7 @@ Travel Agency Website Overview
 TravelEase is a modern, responsive travel agency website designed to showcase destinations, tour packages, hotel deals, and easy booking options. It provides users with a smooth browsing experience, real-time contact forms, and a visually rich interface to explore their dream vacations.
  Main Features
 
-Destination Explorer – Browse by country, theme, or mood (beaches, adventures, cultural tours).
+Destination Explorer – Browse by country, theme, or mood (beaches, adventures, cultural tours)
 
 Smart Price Finder – Instantly compare and book the best flight and hotel deals.
 
