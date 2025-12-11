@@ -13,7 +13,7 @@ Smart Price Finder – Instantly compare and book the best flight and hotel deal
 
  AI Travel Assistant – Get real-time suggestions and itinerary help.
 
- Travel Stories & Blogs – Read inspiring travel experiences and photo galleries.
+ Travel Stories  – Read inspiring travel experiences and photo galleries.
 
  Online Booking System – Simple, fast, and secure booking with payment tracking.
 
